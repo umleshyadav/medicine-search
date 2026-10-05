@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
       <header className="header">
-        <Link to="/">💊 Medicine Search</Link>
+        <Link to="/"> Medicine Search</Link>
       </header>
       <main className="container">
         <Routes>
